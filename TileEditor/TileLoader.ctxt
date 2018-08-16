@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileLoader
+comment0.text=\r\n\ Scans\ tiles\ in\ the\ tiles\ folder\ from\ tileList.txt\ and\ then\ puts\ them\ into\ an\ array.\r\n\ \r\n\ @author\ Frank\ Lai\r\n\ @version\ 2018-06-29\r\n
+comment1.params=
+comment1.target=TileLoader()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TileLoader.\r\n
+comment2.params=index
+comment2.target=java.awt.image.BufferedImage\ getTile(int)
+comment2.text=\r\n\ Gets\ a\ tile.\r\n\ \r\n\ @param\ index\ the\ index\ of\ the\ tile\ to\ be\ gotten.\r\n\ @return\ the\ image\ of\ the\ tile.\r\n
+comment3.params=
+comment3.target=int\ getTileNumber()
+comment3.text=\r\n\ Gets\ the\ number\ of\ tiles.\r\n\ \r\n\ @return\ the\ number\ of\ tiles.\r\n
+comment4.params=
+comment4.target=void\ listTiles()
+comment4.text=\r\n\ Outputs\ all\ tiles\ to\ the\ console.\r\n
+numComments=5

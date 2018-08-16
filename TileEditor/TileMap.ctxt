@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileMap
+comment0.text=\r\n\ Maps\ different\ files\ to\ dictionaries.\r\n\r\n\ @author\ Frank\ Lai\r\n\ @version\ 2018-08-15\r\n
+comment1.params=
+comment1.target=TileMap()
+comment1.text=\r\n\ Imports\ the\ tilemap\ from\ the\ default\ directory.\r\n
+comment2.params=path
+comment2.target=void\ importFromFile(java.lang.String)
+comment2.text=\r\n\ Imports\ the\ tilemap\ from\ another\ directory.\r\n
+comment3.params=
+comment3.target=void\ exportDefault()
+comment3.text=\r\n\ Exports\ a\ map\ the\ default\ directory.\r\n
+comment4.params=path
+comment4.target=void\ exportToFile(java.lang.String)
+comment4.text=\r\n\ Exports\ a\ map\ to\ another\ directory.\r\n
+numComments=5
