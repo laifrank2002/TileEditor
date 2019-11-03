@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TileImage
+comment0.text=\r\n\ A\ TileImage\ that\ is\ a\ TYPE\ of\ tile.\r\n\ We\ do\ this\ for\ the\ format\ in\ exporting\ to\ JSON.\r\n\ This\ is\ STRICTLY\ for\ the\ TileLoader\ and\ TileExporter.\ \r\n\ NOT\ A\ REPRESENTATION\ OF\ A\ TILE\!\r\n\ \r\n\ @Frank\ Lai\r\n\ @2018-12-28\r\n
+comment1.params=image\ name
+comment1.target=TileImage(java.awt.image.BufferedImage,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ TileImage\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getImage()
+comment2.text=\r\n\ @return\ the\ image\r\n
+comment3.params=
+comment3.target=int\ getID()
+comment3.text=\r\n\ @return\ the\ ID\r\n
+numComments=4

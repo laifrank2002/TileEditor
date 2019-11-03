@@ -1,0 +1,13 @@
+To get this to work:
+
+	1. PLACE ALL TILES IN THE [tiles] FOLDER
+
+What is outputted:
+	
+	1. A JSON REPRESENTATION OF EVERYTHING
+	2. A .TXT THAT SYMBOLIZES THE TILESET
+
+
+
+
+		
